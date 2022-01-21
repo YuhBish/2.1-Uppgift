@@ -1,4 +1,4 @@
-ord=input("Skriv ett ord: ")
+ord=input("Skriv ett ord i stora bokstäver: ")
 A = ord[0]
 B = ord[-1]
 
